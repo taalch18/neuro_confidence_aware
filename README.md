@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
+![Framework](https://img.shields.io/badge/Backbone-ResNet18-orange)
+![Calibration](https://img.shields.io/badge/Calibration-Temperature%20Scaling-green)
+![Safety](https://img.shields.io/badge/Abstention-Enabled-brightgreen)
+![Medical AI](https://img.shields.io/badge/Domain-Medical%20AI-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-MVP%20Release-blueviolet)
 
 # Confidence-Aware Brain Tumor Classification
 
